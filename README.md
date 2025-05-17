@@ -23,7 +23,7 @@ gcc -o rush02 rush02.c
 ▶️ Exécution
 Après compilation, lancez simplement le programme :
 
-./calculatrice
+./rush02
 
 🧑‍💻 Fonctionnalités
 
